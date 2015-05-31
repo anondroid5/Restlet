@@ -1,4 +1,6 @@
 # Restlet
+[![Language](http://img.shields.io/badge/language-java-orange.svg?style=flat)](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+
 RESTful Web Services
 
 REST Framework
